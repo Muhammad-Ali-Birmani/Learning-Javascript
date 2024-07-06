@@ -456,15 +456,17 @@ function outerFunction() {
     // }
 
     
-    const helloArray = [];
+    // const helloArray = [];
 
-    helloArray.push("Muhammad");
-    helloArray.push("Ali");
-    helloArray.push(100);
-    helloArray.push("DGK");
-    helloArray.push("BS-IT");
+    // helloArray.push("Muhammad");
+    // helloArray.push("Ali");
+    // helloArray.push(100);
+    // helloArray.push("DGK");
+    // helloArray.push("BS-IT");
 
-    for(let i in helloArray){
-        console.log(helloArray[i]);
-    }
+    // for(let i in helloArray){
+    //     console.log(helloArray[i]);
+    // }
+
+
 
