@@ -435,4 +435,36 @@ function outerFunction() {
     // }
 
 
+    //  const myArrayData = ["Apple" , "Banana" , "Carrot" , "Orange", "Potato"];
+    //  myArrayData.push("Apricot");
+    //  console.log(myArrayData);
+
+
+    // const tetsArray = ["Aa" , "Bb" , "Cc", "Dd", "Ee", "Ff"];
+
+    // function displayArrayResult(){
+    //     let textAdded = "<ul>";
+
+    // tetsArray.forEach(myFunction);
+
+    // textAdded +="</ul>";
+
+    // function myFunction(value){
+    //     textAdded += "<li>" + value + "</li>";
+    // }
+    //      document.getElementById("putData1").innerHTML = textAdded;
+    // }
+
     
+    const helloArray = [];
+
+    helloArray.push("Muhammad");
+    helloArray.push("Ali");
+    helloArray.push(100);
+    helloArray.push("DGK");
+    helloArray.push("BS-IT");
+
+    for(let i in helloArray){
+        console.log(helloArray[i]);
+    }
+
