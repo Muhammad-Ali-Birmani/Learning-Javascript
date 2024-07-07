@@ -495,3 +495,50 @@ function outerFunction() {
 
     //     document.getElementById("putData1").innerHTML = myTextData;
     // }
+
+    //  const myArray = ["Apple", "Ball", "Car", "Dog", "Fan"];
+
+    // function arrayToStringMethod(){
+    //     document.getElementById("putData1").innerHTML = myArray.toString();
+    // }
+
+
+
+    // const myArray = ["Apple", "Ball", "Car", "Dog", "Fan"];
+
+    // console.log(myArray[2]);
+    // console.log(myArray.at(3));
+
+
+        //  const myArray = ["Apple", 100,"Fiat" , 2001];
+        //  function clickButton(){
+
+        //    let myArr =  myArray.pop();
+        //  document.getElementById("putData1").innerHTML = myArray.join(" * ");
+        //  let newLength = myArray.push("Dumb");
+        //  console.log(myArr);
+        //  console.log(newLength);
+
+
+        //  }
+
+
+        //  const myArray = ["Apple", 100,"Fiat" , 2001];
+        //  function clickButton(){
+
+        //    //let myArr =  myArray.shift();
+        //  document.getElementById("putData1").innerHTML = myArray.join(" * ");
+         
+        //  //console.log(myArr);
+        //  myArray[myArray.length] = "Round";
+        //  console.log(myArray);
+        //     myArray.unshift("ABC");
+
+        //  }
+
+
+        // const arrayOne = ["A", "B", "C", "D", "E"];
+        // const arrayTwo = ["a", "b", "c", "d", "e"];
+
+        // let arrayThree = arrayOne.concat(arrayTwo);
+        // console.log(arrayThree);
