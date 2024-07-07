@@ -468,5 +468,8 @@ function outerFunction() {
     //     console.log(helloArray[i]);
     // }
 
+    // console.log(Array.isArray(helloArray));
+
+    // console.log(helloArray instanceof Array);
 
 
