@@ -473,3 +473,25 @@ function outerFunction() {
     // console.log(helloArray instanceof Array);
 
 
+    // const myObj = {
+    //     name : "Allen Fin",
+    //     age : 30,
+    //     cars : [
+    //         {name : "Ford", models:["Fiesta", "Focus", "Mustang"]},
+    //         {name : "BMW", models:["320", "X3", "X5"]},
+    //         {name : "Fiat", models : ["500" , "Panda"]}
+    //     ]
+    // };
+
+    // let myTextData = "";
+
+    // function  collectDataOfNestedArrays(){
+    //     for(let i in myObj.cars){
+    //         myTextData +="<h1>" + myObj.cars[i].name + "</h1>";
+    //         for(let x in myObj.cars[i].models){
+    //             myTextData += myObj.cars[i].models[x] + "<br>";
+    //         }
+    //     }
+
+    //     document.getElementById("putData1").innerHTML = myTextData;
+    // }
