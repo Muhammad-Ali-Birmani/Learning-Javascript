@@ -542,3 +542,16 @@ function outerFunction() {
 
         // let arrayThree = arrayOne.concat(arrayTwo);
         // console.log(arrayThree);
+
+
+        // const arr = ["Abc" , "Def", "Ghi" , "Jkl"];
+        // console.log(arr);
+        // arr.copyWithin(2,0);
+        // console.log(arr);
+
+        // const myArr = [[1,2],[3,4],[5,6]];
+        // const newArr = myArr.flat();
+        // console.log(myArr);
+        // console.log(newArr);
+
+        
