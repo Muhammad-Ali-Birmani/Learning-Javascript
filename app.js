@@ -554,4 +554,23 @@ function outerFunction() {
         // console.log(myArr);
         // console.log(newArr);
 
-        
+        // const dataArr = ["Abc" , "Def" , "Ghi" , "Jkl" , "Mno"];
+
+        // const derivedArray = dataArr.splice(2,0,"ALI","KHAN");
+
+        // console.log(derivedArray);
+
+
+        // const fruits = ["Banana", "Orange", "Lemon", "Banana", "Mango"];
+        // const citrus = fruits.slice(3);
+        // console.log(citrus);
+
+        // console.log(fruits.lastIndexOf("Banana"));
+
+        // console.log(fruits.includes("Lemon"));
+
+        // console.log(fruits.find());
+
+
+        // const fruits = ["Banana", "Orange", "Apple", "Mango"];
+        // console.log(fruits.reverse());
